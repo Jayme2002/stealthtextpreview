@@ -1,9 +1,8 @@
 This is a preview repository for StealthText as its a publicly hosted SaaS application. Contact me if you would like to see the codebase.
 
 # StealthText
-
 StealthText transforms AI-generated content into natural, human-like text that bypasses AI detection. With our advanced humanization technology, your content will appear authentic and resonate with readers.
-
+![Screenshot 2025-02-25 at 2 23 02 PM](https://github.com/user-attachments/assets/682dff20-9e0c-4196-92b9-0729ec77e2c3)
 ## Features
 
 - **AI Text Humanizer**: Convert AI-generated text into human-like text effortlessly.
